@@ -17,3 +17,10 @@ df.head()
 # Three, you can easily visualize and filter large tabular datasets.
 # %%
 # We use requirements.txt to manage dependencies in our project and record the packages need to run the program, so whoever clones our repo can easily install the required packages in a virtual environment.
+# %%
+# Recipe
+# 1. Create a Github repo whether by forking, cloning, or just making a new one.
+# 2. Create a virtual environment in your local machine or codespace.
+# 3. Install necesasary extensions in your codespace and freeze it into a requirements.txt file.
+# 4. Create a .py file or another type of file to write your code.
+# 5. Commit and push your changes to your GitHub repo.
