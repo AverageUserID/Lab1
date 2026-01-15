@@ -19,8 +19,9 @@ df.head()
 # We use requirements.txt to manage dependencies in our project and record the packages need to run the program, so whoever clones our repo can easily install the required packages in a virtual environment.
 # %%
 # Recipe
-# 1. Create a Github repo whether by forking, cloning, or just making a new one.
-# 2. Create a virtual environment in your local machine or codespace.
-# 3. Install necesasary extensions in your codespace and freeze it into a requirements.txt file.
-# 4. Create a .py file or another type of file to write your code.
-# 5. Commit and push your changes to your GitHub repo.
+# 1. Create a GitHub repo whether by forking, cloning, or just making a new one.
+# 2. Open VS codes from GitHub codespaces.
+# 3. Create a virtual environment in your local machine or codespace.
+# 4. Install necesasary extensions in your codespace and freeze it into a requirements.txt file.
+# 5. Create a .py file or another type of file to write your code.
+# 6. Commit and push your changes to your GitHub repo.
